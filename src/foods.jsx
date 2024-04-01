@@ -1,0 +1,9 @@
+
+const foodsCollection = [
+    "🍇", "🍈", "🍉", "🍊", "🍋", "🍌", "🍍", "🍎",
+    "🍏", "🍐", "🍒", "🍓", "🥝", "🍅", "🥑",
+  ];
+
+
+
+export  {foodsCollection}
